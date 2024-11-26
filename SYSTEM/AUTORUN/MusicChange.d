@@ -865,7 +865,7 @@ instance MUSICSYSCONFIG(C_MUSICSYS_CFG)
 	instance OGR_DAY_STD(C_MUSICTHEME_DEF)
 	{
 		OGR_DAY_STD_Old();
-			file = "awc_day_std.sgt";
+			file = "fri_daystd.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
@@ -887,7 +887,7 @@ instance MUSICSYSCONFIG(C_MUSICSYS_CFG)
 	instance OGR_NGT_STD(C_MUSICTHEME_DEF)
 	{
 		OGR_NGT_STD_Old();
-			file = "awc_day_std.sgt";
+			file = "fri_daystd.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};

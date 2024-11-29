@@ -179,6 +179,52 @@ instance MUSICSYSCONFIG(C_MUSICSYS_CFG)
 
 // ----------------------------------------------------
 
+	instance ARE_DAY_STD(C_MUSICTHEME_DEF)
+	{
+		ARE_DAY_STD_Old();
+			file = "kh_daystd.sgt";
+			ReverbMix = -100;
+			ReverbTime = 0;
+	};
+	instance ARE_DAY_THR(C_MUSICTHEME_DEF)
+	{
+		ARE_DAY_THR_Old();
+			file = "nw_daythr.sgt";
+			ReverbMix = -100;
+			ReverbTime = 0;
+	};
+	instance ARE_DAY_FGT(C_MUSICTHEME_DEF)
+	{
+		ARE_DAY_FGT_Old();
+			file = "kh_dayfgt.sgt";
+			ReverbMix = -100;
+			ReverbTime = 0;
+	};
+
+	instance ARE_NGT_STD(C_MUSICTHEME_DEF)
+	{
+		//ARE_NGT_STD_Old();
+			file = "kh_daystd.sgt";
+			ReverbMix = -100;
+			ReverbTime = 0;
+	};
+	instance ARE_NGT_THR(C_MUSICTHEME_DEF)
+	{
+		//ARE_NGT_THR_Old();
+			file = "nw_daythr.sgt";
+			ReverbMix = -100;
+			ReverbTime = 0;
+	};
+	instance ARE_NGT_FGT(C_MUSICTHEME_DEF)
+	{
+		//ARE_NGT_FGT_Old();
+			file = "kh_dayfgt.sgt";
+			ReverbMix = -100;
+			ReverbTime = 0;
+	};
+
+// ----------------------------------------------------
+
 	instance IE_DAY_STD(C_MUSICTHEME_DEF)
 	{
 		IE_DAY_STD_Old();
@@ -865,7 +911,7 @@ instance MUSICSYSCONFIG(C_MUSICSYS_CFG)
 	instance OGR_DAY_STD(C_MUSICTHEME_DEF)
 	{
 		OGR_DAY_STD_Old();
-			file = "fri_daystd.sgt";
+			file = "awc_day_std.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
@@ -887,7 +933,7 @@ instance MUSICSYSCONFIG(C_MUSICSYS_CFG)
 	instance OGR_NGT_STD(C_MUSICTHEME_DEF)
 	{
 		OGR_NGT_STD_Old();
-			file = "fri_daystd.sgt";
+			file = "awc_day_std.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};

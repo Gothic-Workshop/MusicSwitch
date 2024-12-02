@@ -720,21 +720,21 @@ instance musicSysConfig(C_MUSICSYS_CFG)
 	instance MAY_DAY_STD(C_MUSICTHEME_STANDARD)
 	{
 		MAY_DAY_STD_Old();
-			file = "sZom_Day_Std.sgt";
+			file = "aow_DayStd.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance MAY_DAY_THR(C_MUSICTHEME_THREAT)
 	{
 		//MAY_DAY_THR_Old();
-			file = "scam_ngt_thr.sgt";
+			file = "aow_DayThreat.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance MAY_DAY_FGT(C_MUSICTHEME_FIGHT)
 	{
 		MAY_DAY_FGT_Old();
-			file = "scam_day_fgt.sgt";
+			file = "aOC_Day_Fgt.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
@@ -742,21 +742,21 @@ instance musicSysConfig(C_MUSICSYS_CFG)
 	instance MAY_NGT_STD(C_MUSICTHEME_STANDARD)
 	{
 		//MAY_NGT_STD_Old();
-			file = "sZom_Day_Std.sgt";
+			file = "aow_NightStd.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance MAY_NGT_THR(C_MUSICTHEME_THREAT)
 	{
 		//MAY_DAY_THR_Old();
-			file = "scam_ngt_thr.sgt";
+			file = "aow_DayThreat.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance MAY_NGT_FGT(C_MUSICTHEME_FIGHT)
 	{
 		//MAY_DAY_FGT_Old();
-			file = "scam_day_fgt.sgt";
+			file = "aOC_Day_Fgt.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
@@ -766,21 +766,21 @@ instance musicSysConfig(C_MUSICSYS_CFG)
 	instance NWP_DAY_STD(C_MUSICTHEME_STANDARD)
 	{
 		//NWP_DAY_STD_Old();
-			file = "sZom_Day_Std.sgt";
+			file = "aow_DayStd.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance NWP_DAY_THR(C_MUSICTHEME_THREAT)
 	{
 		//NWP_DAY_THR_Old();
-			file = "scam_ngt_thr.sgt";
+			file = "aow_DayThreat.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance NWP_DAY_FGT(C_MUSICTHEME_FIGHT)
 	{
 		//NWP_DAY_FGT_Old();
-			file = "scam_day_fgt.sgt";
+			file = "aOC_Day_Fgt.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
@@ -788,21 +788,21 @@ instance musicSysConfig(C_MUSICSYS_CFG)
 	instance NWP_NGT_STD(C_MUSICTHEME_STANDARD)
 	{
 		//NWP_NGT_STD_Old();
-			file = "sZom_Day_Std.sgt";
+			file = "aow_NightStd.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance NWP_NGT_THR(C_MUSICTHEME_THREAT)
 	{
 		//NWP_DAY_THR_Old();
-			file = "scam_ngt_thr.sgt";
+			file = "aow_DayThreat.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance NWP_NGT_FGT(C_MUSICTHEME_FIGHT)
 	{
 		//NWP_DAY_FGT_Old();
-			file = "scam_day_fgt.sgt";
+			file = "aOC_Day_Fgt.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
@@ -815,21 +815,21 @@ instance musicSysConfig(C_MUSICSYS_CFG)
 	instance MOI_DAY_STD(C_MUSICTHEME_STANDARD)
 	{
 		MOI_DAY_STD_Old();
-			file = "sZom_Day_Std.sgt";
+			file = "aow_DayStd.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance MOI_DAY_THR(C_MUSICTHEME_THREAT)
 	{
 		//MOI_DAY_THR_Old();
-			file = "scam_ngt_thr.sgt";
+			file = "aow_DayThreat.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance MOI_DAY_FGT(C_MUSICTHEME_FIGHT)
 	{
 		//MOI_DAY_FGT_Old();
-			file = "scam_day_fgt.sgt";
+			file = "aOC_Day_Fgt.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
@@ -837,21 +837,21 @@ instance musicSysConfig(C_MUSICSYS_CFG)
 	instance MOI_NGT_STD(C_MUSICTHEME_STANDARD)
 	{
 		//MOI_NGT_STD_Old();
-			file = "sZom_Day_Std.sgt";
+			file = "aow_NightStd.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance MOI_NGT_THR(C_MUSICTHEME_THREAT)
 	{
 		//MOI_DAY_THR_Old();
-			file = "scam_ngt_thr.sgt";
+			file = "aow_NightThreat.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance MOI_NGT_FGT(C_MUSICTHEME_FIGHT)
 	{
 		//MOI_DAY_FGT_Old();
-			file = "scam_day_fgt.sgt";
+			file = "aOC_Day_Fgt.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
@@ -913,21 +913,21 @@ instance musicSysConfig(C_MUSICSYS_CFG)
 	instance MOO_DAY_STD(C_MUSICTHEME_STANDARD)
 	{
 		MOO_DAY_STD_Old();
-			file = "sZom_Day_Std.sgt";
+			file = "aow_DayStd.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance MOO_DAY_THR(C_MUSICTHEME_THREAT)
 	{
 		//MOO_DAY_THR_Old();
-			file = "scam_ngt_thr.sgt";
+			file = "aow_DayThreat.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance MOO_DAY_FGT(C_MUSICTHEME_FIGHT)
 	{
 		//MOO_DAY_FGT_Old();
-			file = "scam_day_fgt.sgt";
+			file = "aOC_Day_Fgt.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
@@ -935,21 +935,21 @@ instance musicSysConfig(C_MUSICSYS_CFG)
 	instance MOO_NGT_STD(C_MUSICTHEME_STANDARD)
 	{
 		//MOO_NGT_STD_Old();
-			file = "sZom_Day_Std.sgt";
+			file = "aow_NightStd.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance MOO_NGT_THR(C_MUSICTHEME_THREAT)
 	{
 		//MOO_DAY_THR_Old();
-			file = "scam_ngt_thr.sgt";
+			file = "aow_NightThreat.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance MOO_NGT_FGT(C_MUSICTHEME_FIGHT)
 	{
 		//MOO_DAY_FGT_Old();
-			file = "scam_day_fgt.sgt";
+			file = "aOC_Day_Fgt.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
@@ -1207,21 +1207,21 @@ instance musicSysConfig(C_MUSICSYS_CFG)
 	instance ADW_DAY_STD(C_MUSICTHEME_STANDARD)
 	{
 		ADW_DAY_STD_Old();
-			file = "sOw_Day_Std.sgt";
+			file = "aOC_DayStd.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance ADW_DAY_THR(C_MUSICTHEME_THREAT)
 	{
 		//ADW_DAY_THR_Old();
-			file = "sCam_Day_Thr.sgt";
+			file = "aOC_DayThreat.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance ADW_DAY_FGT(C_MUSICTHEME_FIGHT)
 	{
 		ADW_DAY_FGT_Old();
-			file = "sOc_Day_Fgt.sgt";
+			file = "aOC_Day_Fgt.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
@@ -1229,21 +1229,21 @@ instance musicSysConfig(C_MUSICSYS_CFG)
 	instance ADW_NGT_STD(C_MUSICTHEME_STANDARD)
 	{
 		//ADW_NGT_STD_Old();
-			file = "sOc_Ngt_Std.sgt";
+			file = "aOC_Ngt_Std.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance ADW_NGT_THR(C_MUSICTHEME_THREAT)
 	{
 		//ADW_DAY_THR_Old();
-			file = "sCam_Day_Thr.sgt";
+			file = "aOC_DayThreat.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance ADW_NGT_FGT(C_MUSICTHEME_FIGHT)
 	{
 		//ADW_DAY_FGT_Old();
-			file = "sOc_Day_Fgt.sgt";
+			file = "aOC_Day_Fgt.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
@@ -1253,21 +1253,21 @@ instance musicSysConfig(C_MUSICSYS_CFG)
 	instance AWC_DAY_STD(C_MUSICTHEME_STANDARD)
 	{
 		AWC_DAY_STD_Old();
-			file = "sOw_Day_Std.sgt";
+			file = "aOC_DayStd.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance AWC_DAY_THR(C_MUSICTHEME_THREAT)
 	{
 		//AWC_DAY_THR_Old();
-			file = "sCam_Day_Thr.sgt";
+			file = "aOC_DayThreat.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance AWC_DAY_FGT(C_MUSICTHEME_FIGHT)
 	{
 		AWC_DAY_FGT_Old();
-			file = "sOc_Day_Fgt.sgt";
+			file = "aOC_Day_Fgt.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
@@ -1275,21 +1275,21 @@ instance musicSysConfig(C_MUSICSYS_CFG)
 	instance AWC_NGT_STD(C_MUSICTHEME_STANDARD)
 	{
 		//AWC_NGT_STD_Old();
-			file = "sOc_Ngt_Std.sgt";
+			file = "aOC_Ngt_Std.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance AWC_NGT_THR(C_MUSICTHEME_THREAT)
 	{
 		//AWC_DAY_THR_Old();
-			file = "sCam_Day_Thr.sgt";
+			file = "aOC_DayThreat.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance AWC_NGT_FGT(C_MUSICTHEME_FIGHT)
 	{
 		//AWC_DAY_FGT_Old();
-			file = "sOc_Day_Fgt.sgt";
+			file = "aOC_Day_Fgt.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
@@ -1299,21 +1299,21 @@ instance musicSysConfig(C_MUSICSYS_CFG)
 	instance PO1_DAY_STD(C_MUSICTHEME_STANDARD)
 	{
 		PO1_DAY_STD_Old();
-			file = "sOw_Day_Std.sgt";
+			file = "aOC_DayStd.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance PO1_DAY_THR(C_MUSICTHEME_THREAT)
 	{
 		//PO1_DAY_THR_Old();
-			file = "sCam_Day_Thr.sgt";
+			file = "aOC_DayThreat.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance PO1_DAY_FGT(C_MUSICTHEME_FIGHT)
 	{
 		PO1_DAY_FGT_Old();
-			file = "sOc_Day_Fgt.sgt";
+			file = "aOC_Day_Fgt.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
@@ -1321,21 +1321,21 @@ instance musicSysConfig(C_MUSICSYS_CFG)
 	instance PO1_NGT_STD(C_MUSICTHEME_STANDARD)
 	{
 		//PO1_NGT_STD_Old();
-			file = "sOc_Ngt_Std.sgt";
+			file = "aOC_Ngt_Std.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance PO1_NGT_THR(C_MUSICTHEME_THREAT)
 	{
 		//PO1_DAY_THR_Old();
-			file = "sCam_Day_Thr.sgt";
+			file = "aOC_DayThreat.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance PO1_NGT_FGT(C_MUSICTHEME_FIGHT)
 	{
 		//PO1_DAY_FGT_Old();
-			file = "sOc_Day_Fgt.sgt";
+			file = "aOC_Day_Fgt.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
@@ -1495,14 +1495,14 @@ instance musicSysConfig(C_MUSICSYS_CFG)
 	instance CAN_DAY_STD(C_MUSICTHEME_STANDARD)
 	{
 		CAN_DAY_STD_Old();
-			file = "aOC_DayStd.sgt";
+			file = "aOC_Day_Std.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance CAN_DAY_THR(C_MUSICTHEME_THREAT)
 	{
 		//CAN_DAY_THR_Old();
-			file = "aOC_DayThreat.sgt";
+			file = "aOC_Day_Thr.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
@@ -1517,21 +1517,21 @@ instance musicSysConfig(C_MUSICSYS_CFG)
 	instance CAN_NGT_STD(C_MUSICTHEME_STANDARD)
 	{
 		//CAN_NGT_STD_Old();
-			file = "aOC_DayStd.sgt";
+			file = "aOC_Day_Std.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance CAN_NGT_THR(C_MUSICTHEME_THREAT)
 	{
 		//CAN_DAY_THR_Old();
-			file = "aOC_DayThreat.sgt";
+			file = "aOC_Day_Thr.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance CAN_NGT_FGT(C_MUSICTHEME_FIGHT)
 	{
 		//CAN_DAY_FGT_Old();
-			file = "aOC_Fightt.sgt";
+			file = "aOC_Fight.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
@@ -1544,21 +1544,21 @@ instance musicSysConfig(C_MUSICSYS_CFG)
 	instance CRY_DAY_STD(C_MUSICTHEME_STANDARD)
 	{
 		CRY_DAY_STD_Old();
-			file = "sZom_Day_Std.sgt";
+			file = "aOC_Day_Std.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance CRY_DAY_THR(C_MUSICTHEME_THREAT)
 	{
 		//CRY_DAY_THR_Old();
-			file = "scam_ngt_thr.sgt";
+			file = "aOC_Day_Thr.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance CRY_DAY_FGT(C_MUSICTHEME_FIGHT)
 	{
 		CRY_DAY_FGT_Old();
-			file = "scam_day_fgt.sgt";
+			file = "aOC_Fight.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
@@ -1566,21 +1566,21 @@ instance musicSysConfig(C_MUSICSYS_CFG)
 	instance CRY_NGT_STD(C_MUSICTHEME_STANDARD)
 	{
 		//CRY_NGT_STD_Old();
-			file = "sZom_Day_Std.sgt";
+			file = "aOC_Day_Std.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance CRY_NGT_THR(C_MUSICTHEME_THREAT)
 	{
 		//CRY_DAY_THR_Old();
-			file = "scam_ngt_thr.sgt";
+			file = "aOC_Day_Thr.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance CRY_NGT_FGT(C_MUSICTHEME_FIGHT)
 	{
 		//CRY_DAY_FGT_Old();
-			file = "scam_day_fgt.sgt";
+			file = "aOC_Fight.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
@@ -1642,21 +1642,21 @@ instance musicSysConfig(C_MUSICSYS_CFG)
 	instance GHO_DAY_STD(C_MUSICTHEME_STANDARD)
 	{
 		GHO_DAY_STD_Old();
-			file = "sZom_Day_Std.sgt";
+			file = "aTH_Day_Std.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance GHO_DAY_THR(C_MUSICTHEME_THREAT)
 	{
 		//GHO_DAY_THR_Old();
-			file = "scam_ngt_thr.sgt";
+			file = "aTH_Day_Thr.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance GHO_DAY_FGT(C_MUSICTHEME_FIGHT)
 	{
 		GHO_DAY_FGT_Old();
-			file = "scam_day_fgt.sgt";
+			file = "aTH_Day_Thr.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
@@ -1664,21 +1664,21 @@ instance musicSysConfig(C_MUSICSYS_CFG)
 	instance GHO_NGT_STD(C_MUSICTHEME_STANDARD)
 	{
 		//GHO_NGT_STD_Old();
-			file = "scam_ngt_thr.sgt";
+			file = "aTH_Day_Std.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance GHO_NGT_THR(C_MUSICTHEME_THREAT)
 	{
 		//GHO_DAY_THR_Old();
-			file = "sCam_Day_Thr.sgt";
+			file = "aTH_Day_Thr.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance GHO_NGT_FGT(C_MUSICTHEME_FIGHT)
 	{
 		//GHO_DAY_FGT_Old();
-			file = "scam_day_fgt.sgt";
+			file = "aTH_Day_Thr.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
@@ -1690,21 +1690,21 @@ instance musicSysConfig(C_MUSICSYS_CFG)
 	instance MI1_DAY_STD(C_MUSICTHEME_STANDARD)
 	{
 		MI1_DAY_STD_Old();
-			file = "aOC_Day_Std.sgt";
+			file = "aTH_Day_Std.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance MI1_DAY_THR(C_MUSICTHEME_THREAT)
 	{
 		//MI1_DAY_THR_Old();
-			file = "aOC_Day_Thr.sgt";
+			file = "aTH_Day_Thr.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance MI1_DAY_FGT(C_MUSICTHEME_FIGHT)
 	{
 		//MI1_DAY_FGT_Old();
-			file = "aOC_Day_Fgt.sgt";
+			file = "aTH_Day_Thr.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
@@ -1712,21 +1712,21 @@ instance musicSysConfig(C_MUSICSYS_CFG)
 	instance MI1_NGT_STD(C_MUSICTHEME_STANDARD)
 	{
 		//MI1_NGT_STD_Old();
-			file = "aOC_Ngt_Std.sgt";
+			file = "aTH_Day_Std.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance MI1_NGT_THR(C_MUSICTHEME_THREAT)
 	{
 		//MI1_DAY_THR_Old();
-			file = "aOC_Day_Thr.sgt";
+			file = "aTH_Day_Thr.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance MI1_NGT_FGT(C_MUSICTHEME_FIGHT)
 	{
 		//MI1_DAY_FGT_Old();
-			file = "aOC_Day_Fgt.sgt";
+			file = "aTH_Day_Thr.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
@@ -1750,7 +1750,7 @@ instance musicSysConfig(C_MUSICSYS_CFG)
 	instance MI2_DAY_FGT(C_MUSICTHEME_FIGHT)
 	{
 		//MI2_DAY_FGT_Old();
-			file = "aOC_Day_Fgt.sgt";
+			file = "aOC_Fight.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
@@ -1772,7 +1772,7 @@ instance musicSysConfig(C_MUSICSYS_CFG)
 	instance MI2_NGT_FGT(C_MUSICTHEME_FIGHT)
 	{
 		//MI2_DAY_FGT_Old();
-			file = "aOC_Day_Fgt.sgt";
+			file = "aOC_Fight.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
@@ -1785,21 +1785,21 @@ instance musicSysConfig(C_MUSICSYS_CFG)
 	instance PIR_DAY_STD(C_MUSICTHEME_STANDARD)
 	{
 		PIR_DAY_STD_Old();
-			file = "sOc_Day_Std.sgt";
+			file = "aOC_DayStd.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance PIR_DAY_THR(C_MUSICTHEME_THREAT)
 	{
 		//PIR_DAY_THR_Old();
-			file = "sCam_Day_Thr.sgt";
+			file = "aow_DayThreat.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance PIR_DAY_FGT(C_MUSICTHEME_FIGHT)
 	{
 		PIR_DAY_FGT_Old();
-			file = "sOc_Day_Fgt.sgt";
+			file = "aOC_Fight.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
@@ -1807,21 +1807,21 @@ instance musicSysConfig(C_MUSICSYS_CFG)
 	instance PIR_NGT_STD(C_MUSICTHEME_STANDARD)
 	{
 		//PIR_NGT_STD_Old();
-			file = "sOc_Day_Std.sgt";
+			file = "aOC_DayStd.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance PIR_NGT_THR(C_MUSICTHEME_THREAT)
 	{
 		//PIR_DAY_THR_Old();
-			file = "sCam_Day_Thr.sgt";
+			file = "aow_DayThreat.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
 	instance PIR_NGT_FGT(C_MUSICTHEME_FIGHT)
 	{
 		//PIR_DAY_FGT_Old();
-			file = "sOc_Day_Fgt.sgt";
+			file = "aOC_Fight.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
@@ -1992,7 +1992,7 @@ instance musicSysConfig(C_MUSICSYS_CFG)
 	instance SWP_DAY_FGT(C_MUSICTHEME_FIGHT)
 	{
 		//SWP_DAY_FGT_Old();
-			file = "aOC_Fight.sgt";
+			file = "aOC_Day_Fgt.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
@@ -2014,7 +2014,7 @@ instance musicSysConfig(C_MUSICSYS_CFG)
 	instance SWP_NGT_FGT(C_MUSICTHEME_FIGHT)
 	{
 		//SWP_DAY_FGT_Old();
-			file = "aOC_Fight.sgt";
+			file = "aOC_Day_Fgt.sgt";
 			ReverbMix = -100;
 			ReverbTime = 0;
 	};
